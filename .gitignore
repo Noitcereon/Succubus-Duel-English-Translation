@@ -7,3 +7,8 @@ SuccubusDuel_Data/
 Translation Releases/
 CSV\Language\繫体中文
 CSV/Language/繫体中文/
+
+# Machine Translator's files
+ReiPatcher
+SetupReiPatcherAndAutoTranslator.exe
+SuccubusDuel (Patch and Run).lnk
