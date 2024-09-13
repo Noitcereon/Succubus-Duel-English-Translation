@@ -1,0 +1,115 @@
+﻿クエストバトル回想\n(イベント省略)=Quest battle recollection\n(Skip Event)
+クエストバトル回想\n(イベントあり)=Quest battle recollection\n(Include Event)
+イベントバトル回想\n(イベント省略)=Event battle recollection\n(Skip Event)
+イベントバトル回想\n(イベントあり)=Event battle recollection\n(Include Event)
+【攻撃不能】1ターンの間攻撃ができなくなる\n=[Unable to attack] Cannot attack for 1 turn\n
+
+# Eruru Sucucbus Battle
+サキュバスになって前よりずっと魔力がみなぎっているのを感じるの…<sprite\=0>\n今ならきっとあなたにも勝てる<sprite\=0>=I feel much more powerful now that I'm a succubus...<sprite\=0>\nI''m sure I can beat you now!<sprite\=0>
+Noitのその強気な顔が快楽で歪むのが、\n今から楽しみだわ<sprite\=0>\n何度も喘がせてあげる<sprite\=0>=I can't wait to see that tough face of yours contort with pleasure~<sprite\=0>\nI'm going to make you moan over and over again~<sprite\=0>
+（ううっ・・・<sprite\=0>見知った相手のエルルさんのはずなのに、\n彼女を見ているだけで体が熱くなってくる・・・<sprite\=0>\nそれにこの匂い・・・<sprite\=0>）=(Uh ...<sprite\=0>Even though the opponent Elulu, my body gets hot just looking at her ...<sprite\=0>\nAnd this smell ...<sprite\=0>）
+（甘くていい匂いで、ああっ・・・<sprite\=0>\n頭がぼーっとしてくる。ううっ、がんばらないと・・・<sprite\=0>）=(It smells sweet, oh ...<sprite\=0>\nMy head is getting fuzzy.\nUh, I have to do my best ...<sprite\=0>）
+くすくす<sprite\=0>わたしのこと、そんなに熱っぽい目で見て、\nやっぱり男はサキュバスの体を魅力的に感じちゃうの？=*Giggle*<sprite\=0>Looking at me with such a passionate gaze, do men still find succubus bodies attractive?
+サキュバスになったばかりだけど分かるの、\n体がまとっている魅了の魔力、脳を蕩けさせる甘いフェロモン…<sprite\=0>\nずっと昔から使っていたみたいに、思い通りに操れちゃう<sprite\=0>=I've only just become a succubus, but I can tell, the magical power that surrounds my body is a sweet pheromone ...<sprite\=0>\nAs if I've been using them for a long time.<sprite\=0>
+ねえ、Noit<sprite\=0>\nもう降参してしまいましょう？\n性欲がぐつぐつ湧いてきて、我慢するのも辛いんでしょう？=Hey, noit<sprite\=0>\nWon't you just give in??\nIsn't it painful to hold back your sexual desire?
+そのまま何もしないでターンエンドしなさい<sprite\=0>\nそうすればわたしから甘いご褒美をあげる<sprite\=0>=Just do nothing and end your turn<sprite\=0>\nThen I'll give you a sweet reward<sprite\=0>
+くす<sprite\=0>それでいいのよ、Noit<sprite\=0>\n諦めちゃって、わたしと快楽を満喫しましょう？=*giggle*<sprite\=0>Good, Noit<sprite\=0>\nGive it up and enjoy the pleasure with me.
+ダメです、Noitさん！\n目を覚ましてください！\nサキュバスに流されたらダメ！=No, Noit!\nWake up!\nYou can't get swept away by the succubus!
+ふふ、外野が何か言ってるわ。\nあんなうるさい声なんて、あなたの耳に入らなくしてあげる<sprite\=0>=Fufu, the outside world is saying something.\nI'll make that loud voice go unheard by you~<sprite\=0>
+んっ<sprite\=0>わたしと甘いキスをして\n天国に堕ちていきましょう？んふふ<sprite\=0>= Mmmn<sprite\=0>Let's have a sweet kiss and fall into heaven, shall we? \nNufu~<sprite\=0>
+強い強いNoitなのに、わたしのキスで骨抜き<sprite\=0>楽しい<sprite\=0>=Even though you're strong, Noit, you're getting drained by my kiss<sprite\=0>I'm happy~<sprite\=0>
+Noit<sprite\=0>Noit<sprite\=0>んっ、むちゅ、あは、ちゅぷ<sprite\=0>んちゅ<sprite\=0>=Noit<sprite\=0>Noit<sprite\=0>Hmm, mmuah, aha, chup<sprite\=0>smooch<sprite\=0>
+わたしに唇でエナジーを吸い取られて、幸せよね<sprite\=0>=You're so happy that I'm sucking all your energy from your lips.<sprite\=0>
+あっ、ああっ、もうっ<sprite\=0>\nエルルさん、ぼくっ、ああっ<sprite\=0><sprite\=0>=Oh, oh, I can't<sprite\=0>\nEruru, I, ooh~<sprite\=0><sprite\=0>
+くすくす<sprite\=0>いいのよ、Noit<sprite\=0>\nわたしの唇が気持ちよすぎて、我慢なんて無理でしょう？\n全部出してしまいなさい<sprite\=0>= *Giggle*<sprite\=0>It's alright, Noit<sprite\=0>\nMy lips feel so good that you can't stand it?\nYou should let it all out~<sprite\=0>
+ふふ、なんてあっけない決着<sprite\=0>\nこんなに楽にあなたがわたしのものになるのなら、\nもっと早くサキュバスになっていればよかったわ<sprite\=0>=Fufu, so easy<sprite\=0>\nIf I knew it was so easy to make you mine, I wish I had become a succubus faster~<sprite\=0>
+
+# Eruru Succubus Battle: Defeat by Eruru
+エルルさんに敗れた僕は、エナジーを相当な量奪われ、まったく動けなくなっていた。=Having lost to Ellle, I was deprived of energy and couldn't move at all.
+ふふ、これで終わりね、Noit<sprite\=0>\nあなたはサキュバスに負けてしまったの<sprite\=0>\nもうこの先妹を助けることも、Aランクを目指すこともできないのよ。=Fufu, this is the end, Noit<sprite\=0>\nYou lost to a Succubus<sprite\=0>\nYou can't help your sister or aim for A rank anymore.
+僕はエルルさんをにらみつけようとする。しかし、強い意志を保って彼女を見続けることができない。=I try to glare at Elul.\nBut the strength of my gaze falters.
+エルルさんに与えられた途方もない快感が体に残り、危機的な状況なのにずっと頭がふわふわする。彼女の顔を見ているだけで彼女への恋心ようなものがふつふつと湧いてきて、思考が完全に蕩けてしまいそうになる。=The tremendous pleasure given to me by Eruru remains in my body, and my head feels fluffy despite the critical situation.\nJust looking at her face, tugs at my heart, and my thoughts almost become completely addled.
+（相手はサキュバスなんだ、好きになったりエッチな気分になったら\nだめなのに・・・<sprite\=0>はひぃっ・・・<sprite\=0>\nああ、エルルさん・・・<sprite\=0>）=(She's a succubus, and if I fall in love with them or feel naughty, I can't...<sprite\=0>Urgh ...<sprite\=0>\nOh, Eruru...<sprite\=0>）
+くす<sprite\=0>いい顔ね<sprite\=0>\n快楽にさえ流されなければ、\nあなたの実力ならきっとわたしにだって勝てたでしょうに<sprite\=0>=*Giggle*<sprite\=0>You're making a nice face<sprite\=0>\nIf only you hadn't been driven by pleasure, you could defeat me with your abilities<sprite\=0>
+Noitさん！ダメです、正気を取り戻して！=NOIT!\nNo, regain your sanity!
+くっ、無敗のルーキーが負けちゃうなんて…。\nサキュバスと戦うのは怖いけど…、これでもくらいなさいっ！\n灼熱の魔法よ、敵を焼き尽くせ！「フレイム」を発動！=Ku, the undefeated rookie will lose ...\nI'm afraid to fight Succubus ... but this is it!\nBurn the enemy, burn the enemy!\nActivate "Flame"!
+ふふ、他愛ない攻撃ね<sprite\=0>=Fufu, attacking is pointless.<sprite\=0>
+エルルさんに向かって火の玉の魔法が飛び掛かる、しかしエルルさんはまるでそれを意に介さないかのように、片手を横に突き出すだけで火の玉を受け止めてしまった。=The magic of the fireball jumped toward Elulu, but Elle took the fireball just as if he had not taken care of it.
+手に当たった火の玉はそのまま、ぷすぷすとくすぶったあと、影に飲み込まれてしまう。=The fireball that hits the hand remains in place, puffing and smouldering, before being swallowed by the shadows.
+あははは♪Noitから吸い取った力のおかげよ。\nわたしとても強くなったみたい<sprite\=0>\nこれが人間を辞めるってことなのね<sprite\=0>なんて楽しいのかしら！=Ahahaha ♪ Thanks to the power sucked from NOIT.\nI feel so much stronger.<sprite\=0>\nSo this is what it's like to quit being human.<sprite\=0>How fun!
+喜びなさい。邪魔するあなたたちも、\nサキュバスに変えてこの楽しさを体験させてあげる<sprite\=0>\nモンスターたちを召喚！=Please rejoice.\nIf you are in the way, I will turn you into a succubus and let you experience this pleasure~<sprite\=0>\nSummon monsters!
+いひひ～<sprite\=0>ボクたちと遊ぼうねー<sprite\=0>=Hihihi~<sprite\=0>Come play with us~<sprite\=0>
+きゃあ、こいつら普通のモンスターより強い！=Kya, they are stronger than ordinary monsters!
+うあっ、やめて<sprite\=0>へんなことしないでっ<sprite\=0>ああっ<sprite\=0>=Oh, stop<sprite\=0>Don't do something strange<sprite\=0> Ah<sprite\=0>
+わたしが時間を稼ぎます、ほかのみなさんは逃げて、\nあんっ、このっ<sprite\=0>離れなさい、けがらわしい悪魔めっ、ああっ<sprite\=0>=I will buy you time, the rest of you run away! You~<sprite\=0>Get away from me, vile demon, oh, oh~<sprite\=0>
+ふふ、あっちは置いておいても楽勝そうね。\nそれじゃあ、Noit、わたしたちはこっちで楽しみましょう？=Fufu, it seems to be an easy win even if I leave it to the others.\nSo, Noit, let's have some fun together?
+あなたが射精すれば、エナジーがまたわたしに注ぎ込まれて、\n向こうのモンスターもわたしもさらに強くなってしまうわ。\n正義感の強いあなたなら・・・。=If you ejaculate, the energy will flow into me again, and the monsters over there will be even stronger.\nIf you have a strong sense of justice ...
+こんな状況で、もう射精なんてしないわよね<sprite\=0>ほら・・・<sprite\=0>=In this situation you wouldn't ejaculate anymore.<sprite\=0> Look ...<sprite\=0>
+例えば額にキスをされて、\n同時に魅了の魔眼をかけられても・・・<sprite\=0>んっちゅ<sprite\=0>=For example, even if you are simply kissed on forehead and I gaze at you with my eyes you will be fascinated ...<sprite\=0> She leans in and kisses you~<sprite\=0>
+蠱惑の口づけ=Kiss of Seduction
+魅了の魔眼=Magical Eyes of Fascination
+うあっ、ああっ、だめなのにっ<sprite\=0>\nでも、すき・・・<sprite\=0>すきでぇ・・・<sprite\=0>=Oh, oh, no, no<sprite\=0>\nBut I like ...<sprite\=0>I like it ...<sprite\=0>
+ああっ、エルルさん、すきっ<sprite\=0>きもちよくてぇっ、あっ、あああっ<sprite\=0>=Oh, Elulu -san, Sukito<sprite\=0>It's good, oh, oh<sprite\=0>
+とまらないっ・・・<sprite\=0>ああ、きもちいいっ<sprite\=0>=I can't stop ...<sprite\=0>Oh, it's good<sprite\=0>
+くす<sprite\=0>胸にかかるぐらい勢いよく飛ばしてる<sprite\=0>\nわたしに恋心を植え付けられるのは、そんなに気持ちよかったかしら<sprite\=0>=*Giggle*<sprite\=0>It's flying so fast it almost hit my chest<sprite\=0>\nI wonder if it felt that good to have a crush on me.<sprite\=0>
+Bランクマスターとして、無敗のルーキーとして、\nそんな恋人に向けるような顔をサキュバス相手にしちゃダメなのよ<sprite\=0>\nわかってる、As a B rank master, as an undefeated rookie, you shouldn't make faces at your succubus partner like you would at your lover.<sprite\=0>\nYou know, noit?
+ほら、言ってみなさい、Noit。\n「お前が憎い」って。\n「家族を奪ったサキュバスなんて大嫌いだ」って。=Come on, say it NOIT.\n"I hate you".\n"I hate succubus who robbed my family."
+きちんと言えれば、あなたのことは見逃してあげるわ<sprite\=0>\n元仲間だったよしみとして、ね。=If you can say it properly, I'll let you go~<sprite\=0>\nAs a former friend.
+エルルさんに言われて、家族と離れ離れになった幼い時の記憶が蘇る。あの日感じた、悲しみ、絶望。そして師匠に助けてもらって必死に修行し続けた記憶も、頭の中に浮かんでくる。=Eruru words brings back memories of being separated from my family.\nThe sadness and despair I felt that day.\nAnd the memories of continuing to train with the help of my teacher come to mind in my head.
+しかし、それと同時に、思考がピンク色に染められていくのを感じる。額につけられたキスマークと、彼女の目から浴びせられた怪しい光が、どんどん頭の中を浸食していく。=But at the same time, I feel my thoughts turning pink. The hickey on my forehead and the suspicious light that bathes me from her eyes is eroding my mind more and more.
+湧き出てこようとする怒りの感情が、甘い快楽に蝕まれて、原型をとどめなくなっていく。ぐずぐずに崩れて、その代わりに、彼女の愛がもっともっと欲しいと、それしか考えられなくなる。=The anger that tries to well up is eroded by the sweet pleasure and loses its original form. \nIt collapses into a soggy mess and, instead, it becomes the only thing you can think about, wanting more and more of her love.
+あっ、ああっ・・・・<sprite\=0>=Ah, aah ...<sprite\=0>
+すき、すき・・・<sprite\=0>\nううっ、エルルさん、すき・・・<sprite\=0>すきだから、もっと・・・<sprite\=0>=I love you, I love you...<sprite\=0>\nUgh, Eruru, I love you ...<sprite\=0>I like you, so please give me more ...<sprite\=0>
+口をついて出たのは、憎いサキュバスへの恨みではなく、ただただ好意を伝える言葉だった。全身で求めるように、僕はふらふらの体で彼女の体にすがりつく。=What came out of my mouth were not words of resentment towards the hateful succubus, but simply words of fondness.\nI clung to her body with my wobbly body, as if seeking her with my whole body.
+くす、くすくすくす<sprite\=0>\nそう、あなたにとって、わたしより大事なものはもう何もないのね<sprite\=0>\nそれなら・・・<sprite\=0>= Kuhahaa, hahaha<sprite\=0>\nYes, nothing is more important to you than me anymore.<sprite\=0>\nThen ...<sprite\=0>
+すべてを吸いつくしてあげる<sprite\=0>\n魅了の効果が解けても、わたしのこと以外何も覚えていないぐらいに、\n何もかもドレインしてあげる<sprite\=0>んっ<sprite\=0>=I'll suck everything from you<sprite\=0>\nEven if the effect of the fascination is lifted, I will drain everything so that I do not remember anything other than me.<sprite\=0> Hmmm~<sprite\=0>
+吸精メルティキス=Absorption Melty Kisses
+あひ、むぐっ<sprite\=0>んんっー<sprite\=0>=Ahi, mug<sprite\=0>Hmmm<sprite\=0>
+エルルさんの唇が僕の唇に触れ、そこからとろけるような快感が流れこんでくる。=Eruru's lips touch my lips, and a melting pleasure flows from them.
+快感でだらしなく開いた口に彼女の舌が入り込む。舌と舌が絡み合って、触れ合うたびに体がビクンと跳ねるほど気持ちよくて、そして・・・。=Her tongue enters my mouth, which is sloppily open with pleasure.\nThe tongues and tongues intertwine, so pleasant that her body jumps with each touch, and then...
+あふっ、んっ、エルルさんっ、ああっ・・<sprite\=0><sprite\=0><sprite\=0>=Afuu, Huh, Eruru, aah ...<sprite\=0><sprite\=0><sprite\=0>
+体があっという間に絶頂を迎えてしまう。舌で嬲られて、ただただきもちいい。こんな快感はいままで味わったことがない。=My body quickly reaches the peak.\nHer tongue teases me and it just feels so good.\nI have never tasted such pleasure before.
+あ、ああっ・・・<sprite\=0>きもちいいっ、すきっ、あああ・・・・<sprite\=0>=Oh, oh ...<sprite\=0>It feels so good, Soo, oh ...<sprite\=0>
+くす、Noit、いいことを教えてあげるわ。\nあなたはいま、エナジーの代わりに記憶を吸われているの。=Noit, let me tell you something good.\I'm now draining your memories instead of your energy.
+あなたにとって大事じゃない記憶から順に消えていくわ。\n口から吸われて、精液にも溶けだして、\nどんどん、どんどん失われていくの<sprite\=0>=They will disappear in order from memories that are not important for you.\nThey are sucked out of your mouth and dissolved into semen, and are being lost more and more.<sprite\=0>
+あなたがあなたでいられなくなるかもしれない、\n廃人になって壊れちゃうかもしれない。\nでも、いいわよね<sprite\=0>わたしのことだけ覚えていれば、それでいいんだから<sprite\=0>=You may not be able to be you anymore, you may be crippled and broken.\nBut that's okay~<sprite\=0>As long as you only remember me, that's fine~<sprite\=0>
+ほら、もっと顔を近づけて、熱くキスをしましょう？\nんっ、むちゅ<sprite\=0>んちゅぱ、れるえろ、んっ、ちゅ、んっ<sprite\=0>=Here, let's bring our faces closer together and kiss passionately, shall we?\nHmm, chuu ¨<sprite\=0>She passionately kisses deeply, wrapping my tongue knots ...<sprite\=0>
+んぐっ、あひっ、あう、あううっ<sprite\=0><sprite\=0>=Hmm, Ah, Ah, Ahu<sprite\=0><sprite\=0>
+射精をするごとに、何かが僕から抜け落ちていくのを感じる。だが、その抜け落ちたものが何であったのかをもはや思い出すことができない。=With each ejaculation, I feel something slipping out of me.\nBut I can no longer remember what that missing something was.
+僕はどうしてここにいるんだっけ、なんでカードの修行をしていたんだっけ。=Why am I here, why did you train cards?
+誰と修行をして、誰を助けようとして、僕は何のために・・・・。=What do I try to train with who, who try to help?
+（ああ・・・・<sprite\=0>きもちいい・・・<sprite\=0>\nエルルさん、すき、すきぃ・・・<sprite\=0><sprite\=0>）=(ah····<sprite\=0>Feels good ...<sprite\=0>\nEruru, I love you ...<sprite\=0><sprite\=0>）
+んふふ<sprite\=0>わたしの中にあなたの記憶が流れ込んでくるわ。\nわたしはあなたについてもっと深く知って、その分あなたは\n自分のことをどんどん知らなくなっていく。なんだか変な話ね<sprite\=0>=Nufu<sprite\=0>Your memories flow into me.\nI get to know more about you and you get to know less and less about yourself.\nIt's a strange isn't it?<sprite\=0>
+どろどろに溶けて、吸われて、\nあなたの中に残っている記憶はこれで最後<sprite\=0>\nわたしのこと以外すべて忘れちゃう<sprite\=0>=Feel your final memory of your life disolves in the pleasure, getting sucked up~<sprite\=0>\nForget everything except me!<sprite\=0>
+さあ、出して、Noit<sprite\=0>\nあなたの存在をわたしにちょうだい<sprite\=0>\nんっ、むちゅ<sprite\=0>んふっ、んっ<sprite\=0>れるっ<sprite\=0>んんっ<sprite\=0>=Hora, let it out, Noit.<sprite\=0>\nPlease give me your existence<sprite\=0>\nHmm, muchu<sprite\=0>Hmm, hmm<sprite\=0>Be<sprite\=0>Hmmm<sprite\=0>
+くす<sprite\=0>全部出したら、そのまま気絶しちゃった<sprite\=0>=*Giggle*<sprite\=0>When I put it all out and fainted.<sprite\=0>
+空っぽのままにしとくのもいいけれど、\n記憶を出したり入れたりして、あとで遊ぼうかしら<sprite\=0>=It would be nice to suck it all out, but I wonder if I can play with him later by taking the memories in and out...<sprite\=0>
+ふふふ、Noit、\nあなたはわたしのおもちゃにしてずっと飼ってあげるわね<sprite\=0>=Fufufu, NOIT, I'll keep you as my toy forever~<sprite\=0>
+僕が目を覚ますと、そこはギルドの一室だった。ん・・・、ギルド・・・？ギルドってなんだっけ、なんで僕はここに・・・。=When I woke up, I was in a room in the guild.\nHmm ... Guild ...?\nWhat is the guild, why am I here ...
+あたりを見回すと椅子に腰かけたエルルさんがそこにはいた。エルルさんはにこりと笑って僕に手を振っている。=When I looked around and see Eruru sitting on a chair.\nElulu is smiling and waving at me.
+建物の外からは、男女の喘ぎ声や、逃げているであろう人たちの悲鳴が聞こえる。けれども僕はそれが気にならない。ただエルルさんに手招きされるまま、その近くに歩いていく。=From the outside of the building, you can hear the gasps of men and women and the screams of those who would've run away.\nBut I don't care.\nI just walk closer to Eruru as invited.
+起きたのね。Noit<sprite\=0>\n今日でもう三日経ったかしら。まだしばらく街での戦いは続きそうね。=You got up.\nNOIT<sprite\=0>\nIt's been three days already today, hasn't it?\nIt looks like the fighting in the city will continue for a while yet.
+わたしも何人か女のカードマスターをサキュバス化したり、\nその辺の男をモンスターを使って吸精したりしたけど、\nなんだかちょっと飽きちゃった。=I've also turned a few female cardmasters into succubi, and I've used monsters to suck off men in the area, but I'm kind of tired of it.
+やっぱりあなたの精が一番おいしいわ。\nほら、おいで。わたしの膝の上に腰を乗せなさい<sprite\=0>=After all your spirit is the most delicious.\nLook, come.\nSit on my lap~<sprite\=0>
+僕はエルルさんに言われるがまま、ズボンを脱いで彼女の膝の上に腰を乗せる。=I take off my pants and sit in her lap as I was told.
+エルルさんはサキュバスで、僕はそのしもべ。その命令に従うのは当たり前のことで、僕はそのために生まれてきたのだ。=Elle is a succubus, and I am a servant.\nIt is natural to follow her orders, and I was born for to do so.
+床にはカードが散らばっている。僕にとってそれは、なぜだか大事なもののような気がするけれど、なぜそう思うのか自分でもわからなかった。=Cards are scattered on the floor.\nFor some reason, they seemed important to me, but I didn't know why I felt that way.
+そんなことを考えているうちに、エルルさんのパイズリが始まる。僕はその気持ちよさに余計なことを考えるのをやめて、ただ身をゆだねることを選ぶ。=While thinking about that, Eruru's boob fucking starts.\nI stop thinking about anything other than how good it feels and choose to just surrender to it.
+ふふ、この先どうなるのかしら。モルゲンがサキュバスの手に堕ちて、\n転移陣も掌握されて、\n次は王都にでも攻め込むのかしらね。=Fufu, what will happen in the future?\nMorugen has fallen into the hand of the succubi, the transfer team is also grasped, and the next one will attack the royal capital.
+あなたはわたしと一緒に、どこまでもついてくるのよ。\n王都にいるエイライラ先生に、強くなったわたしと、\n奴隷になっちゃったあなたを見せるのも面白そうかもね<sprite\=0>=You will follow me wherever I go.\nIt would be interesting to show Elaila-sensei in King's Landing how strong I've become and how you've become a slave ~<sprite\=0>
+くす、挟んだばっかりなのに、もうイクの？\nこの三日間、何度もしてあげたのに、全然慣れないのね<sprite\=0>=*snicker*, I just sandwiched you and you're cumming already??\nI've done it many times to you over the last three days, but you're not used to it at all~<sprite\=0>
+まあもし慣れたとしても、記憶を抜いて\nいつでも初めてみたいに、気持ちよくしてあげるわ<sprite\=0>\nほら、出しなさい<sprite\=0>ご主人様に魔力を渡しなさい、Noit<sprite\=0>=Well, if you do get used to it, I'll take your memories and make you feel as good as if it were your first time.<sprite\=0>\nLook, let it out<sprite\=0>Give your mistress your magic, Noit!<sprite\=0>
+ふふふ、わたしのことが好きだって？\nいいわよ、何回でも好きって言って、\nその言葉と一緒に射精したら、きっととても気持ちいいわ<sprite\=0>=Fufufu, you like me?\nYou can say I like you as many times as you want, and if you ejaculate with those words, it will feel really good~<sprite\=0>
+その後、二人はサキュバスの軍団とともに各地を転戦し、戦果を上げていったという。エルルが傷ついても、主人公の精液で回復し、さらに彼から力をドレインすることでエルルはますますその力を増していった。=The two then went on to fight in various places with the Succubus army, achieving great success in battle.\nWhenever Eruru was wounded, she would recover with the hero's semen, and by draining more power from him, Eruru became more and more powerful.
+エルルはその後、多くの男を堕としていったが、奴隷にしたのは主人公ただ一人だったという。こうして、妹を救うはずだった主人公の物語は、サキュバスの奴隷としてその物語の幕を閉じたのだった。=Eruru then went on to corrupt many men, but the only one she enslaved was the protagonist.\nThus, the hero, who was supposed to save his sister, ended his story as a succubus slave!
+
+うっとり見惚れてしまった=I was entranced by the mark
+素早く目をそらした=I looked away quickly
+
+どれだけ強いカードがいてもこの子の前では無力よ。\nあなたの魔力、すべて奪わせてもらうわ。うふふふ<sprite\=0>=No matter how strong your cards are, you are powerless in front of this girl.\nI'm going to take all your magic power\nUfufufu~<sprite\=0>
+あら、踏まれて喜んでる。\nあなたマゾなのね<sprite\=0>=Oh, I'm happy to step on it.\nYou're a masochist aren't you?<sprite\=0>
+女の足先なんかで一方的に腰くだけにされて、\nそれがあなたの最期なんだ。あわれねー<sprite\=0>きゃはは<sprite\=0>=It's your end, just done in by a woman's toes.\nOh, poor you<sprite\=0>Kyahaha<sprite\=0>
+仲間のことなんて忘れていいのよ<sprite\=0>\nやわらかぁい胸の感触におぼれて、ただおっぱいに甘えればいいの<sprite\=0>\n分かったかしら、マスターのぼうや<sprite\=0>=You can forget about your friends<sprite\=0>\nJust concentrate on the feel of my soft breasts and indulge in my tits<sprite\=0>\nDo you understand servant of the master?<sprite\=0>
+見て、この舌・・・<sprite\=0>\nサキュバスになってから、前より長くなって、それに思った通りに動くの<sprite\=0>=Look, this tongue ...<sprite\=0>\nSince I became a succubus, it's longer than before, and it does what it's supposed to do.<sprite\=0>
+この舌でチンポ絡め取られたら、\nきっと気持ちよすぎて腰が抜けちゃうわね<sprite\=0>\nどう？されてみたい？=If this tongue twirls your cock, I'm sure it'll feel so good you'll buck up and down.<sprite\=0>\nHow do you like it?\nWant to to be sucked?
+あは、想像しちゃったの？そんな状態だと、捕まえるのも簡単…<sprite\=0>\nほら、腰に腕を回して、\nチンポをあーむ<sprite\=0>じゅる、じゅぷじゅぽっ<sprite\=0>じゅるるぅ<sprite\=0>=Oh, did you imagine it?\nIn such a state, you're easy to catch ...<sprite\=0>\nHere, put your arm around my waist,\nI'm going to suck your cock<sprite\=0>Slurp, suck<sprite\=0>suck~<sprite\=0>
